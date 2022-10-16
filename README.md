@@ -1,7 +1,7 @@
 # Particle-size distribution
 Jupyter notebook showing a way to fit a log-normal distribution to a histogram of a particle-size metric with Python.
 
-![plots/MinFeretDiameter_absolute.png](plots/MinFeretDiameter_absolute.png)
+<p align="center"><img src="plots/MinFeretDiameter_absolute.png" width="600"/>p>
 
 # Useful Information
 
