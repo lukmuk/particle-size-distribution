@@ -3,6 +3,8 @@ Jupyter notebook showing a way to fit a log-normal distribution to a histogram o
 
 <p align="center"><img src="plots/MinFeretDiameter_absolute.png" width="600"/> 
 
+<p align="center"><img src="plots/MinFeretDiameter_lmfit_cdf.png" width="600"/> 
+
 # Useful Information
 
 EU nanoparticle information PDFs:
